@@ -47,3 +47,23 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+#geospatial (optional)
+affine
+dask
+dask-geopandas
+dask-image
+fiona
+geopandas
+numba
+numpy>=1.22
+pandas
+pyogrio
+pyproj
+rioxarray
+rasterio
+scipy
+shapely>=2.0
+xarray
+raster_tools
+
